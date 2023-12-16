@@ -1,2 +1,3 @@
-## Use plans this website of Iosevka to customize your own font.
-[https://typeof.net/Iosevka/customizer](Isoveka Customizer)
+## Website to customize your own font.
+
+[Iosevka Customizer](https://typeof.net/Iosevka/customizer)
